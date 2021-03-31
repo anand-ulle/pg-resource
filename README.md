@@ -3,6 +3,7 @@
 This is one step resource repo for all the M.Tech.
 <li> 
   1. Mini project report template
+  
   2. Thesis template
 </li>
 
@@ -10,5 +11,6 @@ This is a LaTeX template and to run this file you need to create an account in t
 
 <li> 
   1. [V-tut] (https://www.overleaf.com/learn/latex/LaTeX_video_tutorial_for_beginners_(video_1))
+  
   2. [tut] (https://www.overleaf.com/learn/latex/Tutorials)
 </li>
